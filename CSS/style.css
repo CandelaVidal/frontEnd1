@@ -1,8 +1,60 @@
-main ul {
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    font-weight: lighter;
+    width: 100%;
+}
+
+body > *{
+    padding: 20px;
+}
+
+header{
+    background-color: #fef7fa;
+    text-align: center;
+}
+
+header h1{
+    letter-spacing: 1px;
+    margin-bottom: 0;
+}
+
+header p{
+    margin-top: 0;
+}
+
+header img{
+    border-radius: 50%;
+}
+
+main ul{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
-    }
+}
+
+main ul li{
+    background-color: #fef7fa;
+    border: 2px solid #fef7fa;
+    text-align: center;
+    margin: 10px;
+}
+
+main ul li:hover{
+    border: 2px solid #8492a6;
+}
+
+main ul li a{
+    padding: 50px;
+    text-decoration: none;
+    color: #000000;
+    display: block;
+    font-weight: bold;
+}
+
+main ul li:hover a{
+    color: #8492a6;
+}
