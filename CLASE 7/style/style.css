@@ -1,0 +1,18 @@
+.batman {
+    background-color:#e5e5e5;
+    text-align: center;
+    
+}
+main{
+   
+    max-width: 1041px;
+    margin: 50px auto; 
+}
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+}
