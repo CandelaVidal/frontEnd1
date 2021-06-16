@@ -11,6 +11,7 @@ body > *{
 
 header{
     background-color: #daa588;
+    opacity: 0.8;
     text-align: center;
 }
 
