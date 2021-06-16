@@ -10,7 +10,7 @@ body > *{
 }
 
 header{
-    background-color: RGBA(196, 109, 94,1);
+    background-color: RGBA(196, 109, 94,0.5);
     text-align: center;
 }
 
