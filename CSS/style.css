@@ -10,7 +10,7 @@ body > *{
 }
 
 header{
-    background-color: #daa588;
+    background-color: #fce4d8;
     opacity: 0.8;
     text-align: center;
 }
@@ -38,14 +38,14 @@ main ul{
 }
 
 main ul li{
-    background-color: #daa588;
-    border: 2px solid #daa588;
+    background-color: #fce4d8;
+    border: 2px solid #fce4d8;
     text-align: center;
     margin: 10px;
 }
 
 main ul li:hover{
-    border: 2px solid #daa588;
+    border: 2px solid #fce4d8;
 }
 
 main ul li a{
@@ -57,5 +57,9 @@ main ul li a{
 }
 
 main ul li:hover a{
-    color: #8492a6;
+    color: #fce4d8;
+}
+
+.footer {
+    background-color: #fce4d8;
 }
