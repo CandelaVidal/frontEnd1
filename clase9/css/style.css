@@ -1,0 +1,30 @@
+.barraSuperior {
+    color: white;
+    background-color: black;
+}
+.barraDeMenuPrincipal {
+    background-color: #F0A83E;
+    ;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    display: inline-block;
+    }
+    .patita {
+        align-items: center;
+    }
+    .barraSuscribite {
+        background-color: #F0A83E;
+        
+    }
+    .barraContacto {
+        background-color: #3C2313;
+
+    }
+    .rights {
+        color: white;
+        background-color: black;
+    }
