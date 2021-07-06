@@ -37,13 +37,14 @@ main ul{
 
 main ul li{
     background-color: #fce4d8;
-    border: 2px solid #fce4d8;
+    border: 2px solid #ffffff;
+    border-radius: 80%;
     text-align: center;
     margin: 10px;
 }
 
 main ul li:hover{
-    border: 2px solid #000000;
+    border: 2px dotted #000000;
 }
 
 main ul li a{
