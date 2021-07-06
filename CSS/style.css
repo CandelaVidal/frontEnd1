@@ -38,7 +38,7 @@ main ul{
 main ul li{
     background-color: #fce4d8;
     border: 2px solid #ffffff;
-    border-radius: 300%;
+    border-radius: 10%;
     text-align: center;
     margin: 10px;
 }
