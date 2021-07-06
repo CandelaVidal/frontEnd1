@@ -5,9 +5,7 @@ body{
     width: 100%;
 }
 
-body > *{
-    padding: 20px;
-}
+
 
 header{
     background-color: #fce4d8;
@@ -57,7 +55,7 @@ main ul li a{
 }
 
 main ul li:hover a{
-    color: #000000;
+    color: #ffffff;
 }
 
 .footer {
